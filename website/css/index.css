@@ -1,0 +1,15 @@
+body{
+	background-image: url("../images/kinda_jean.png");
+}
+#overflowcontainer{
+	background-image: url("../images/paper_fibers.png");
+	top: 0px;
+	width: 1200px;
+	height: 2000px;
+	overflow: auto;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
